@@ -1,0 +1,29 @@
+html{
+    background-color: floralwhite;
+}
+h1{
+    font: 48px Arial, Helvetica, sans-serif;;
+    text-align: center;
+}
+
+h2, h3{
+    font: 28px Arial, Helvetica, sans-serif;;
+    color:#685fb8;
+}
+
+p{
+    line-height: 5px;
+}
+
+img{
+    border: 5px solid gray;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+li{
+    display: inline-block;
+    margin-left: 50px;
+
+}
